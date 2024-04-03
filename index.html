@@ -75,15 +75,28 @@ body {
   </a>
 </div>
 
-<body>
-  <title>Basic Tech Guy</title>
-  <link rel="icon" href="IMG_2951.jpeg" type="image/x-icon">
-<img src="IMG_0250.jpeg" width="300" height="250">
+<head>
 <style>
-  img {
-    border-radius: 5%;
-  }
-  </style>
+.grid-container {
+  display: grid;
+  height: 400px;
+  align-content: end;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+</style>
+</head>
+
+<body>
 <header>iOS 17.2 news title</header>
 <a href="404.html">
   <button>Read More</button>
