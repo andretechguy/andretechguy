@@ -1,17 +1,76 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SCG52QS8BN"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<html lang="en">
 
-  gtag('config', 'G-SCG52QS8BN');
-</script>
-    </head>
-    <body>
-        <p style="text-align: center;">Page Under Construction</p>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SCG52QS8BN"></script>
+    <script src="src/scripts/showMobileMenu.js"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-SCG52QS8BN');
+    </script>
+    <title>Wallpapers / Basic Tech Guy</title>
+    <link rel="icon" href="IMG_2951.jpeg" type="image/x-icon">
+    <link rel="stylesheet" href="src/styles/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div id="fullScreenMenu">
+      <div class="animateThis">
+        <div>
+          <a href="/">Home</a>
+          <a href="blog">Blog</a>
+          <a href="walls" class="active">Wallpapers</a>
+          <div>
+            <a href="https://www.buymeacoffee.com/basictechguy" target="_blank" rel="noopener">Support Me</a>
+            <a href="https://twitter.com/basictechguy"><i class="fa fa-twitter" style="font-size:18px;"></i></a>
+          </div>
+        </div>
+        <br>
+      </div>
+      <button type="button" onclick="showMobileMenu()">
+        Close
+      </button>
+    </div>
+    <header>
+      <menu id="menuIcon">
+        <img src="/src/images/IMG_2951.jpeg" width="42" height="42" alt="">
+      </menu>
+  
+      <menu id="menuPages">
+        <img src="/src/images/IMG_2951.jpeg" width="24" height="24" alt="">
+  
+      </menu>
+      <menu id="menuExternal">
+        <a href="/">Home</a>
+        <a href="blog">Blog</a>
+        <a href="walls" class="active">Wallpapers</a>
+        <a href="https://www.buymeacoffee.com/basictechguy" target="_blank" rel="noopener">Support Me</a>
+        <a href="https://twitter.com/basictechguy" target="_blank" rel="noopener"><i class="fa fa-twitter"
+            style="font-size:18px;"></i></a>
+      </menu>
+      <menu id="menuDisplayMobile">
+        <button type="button" onclick="showMobileMenu()">Menu</button>
+      </menu>
+    </header>
+    <main>
+        <div class="info">
+            <p>This Website Is Under Construction, For Now Follow Me On Twitter/X </p><a
+                href="https://www.twitter.com/BasicTechGuy">Follow Me!</a>
+        </div>
+        <p>Wallpapers Will Go Here</p>
+    </main>
+    <footer>
+        <p>Any copyrighted material (as in album art, application icons or similar) displayed on this website is owned
+            by
+            their respective copyright holder.</p>
+        <p>No copyright infringement is intended.</p>
+    </footer>
+</body>
+
 </html>
