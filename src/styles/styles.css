@@ -306,7 +306,7 @@ footer>p{
         display: none;
     }
     #menuIcon{
-        border-radius: 10%;
+        border-radius: 50%;
         display: flex;
         padding-inline-start: 40px;
         padding-inline-end: 0px;
