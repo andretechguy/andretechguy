@@ -1,6 +1,82 @@
 <!DOCTYPE html>
-<html>
-    <body>
-        <p>Atticle 1 goes here</p>
-    </body>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SCG52QS8BN"></script>
+  <script src="src/scripts/showMobileMenu.js"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-SCG52QS8BN');
+  </script>
+  <title>Basic Tech Guy</title>
+  <link rel="icon" href="IMG_2951.jpeg" type="image/x-icon">
+  <link rel="stylesheet" href="src/styles/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <div id="fullScreenMenu">
+    <div class="animateThis">
+      <div>
+        <a href="/" class="active">Home</a>
+        <a href="blog">Blog</a>
+        <a href="walls">Wallpapers</a>
+        <div>
+          <a href="https://www.buymeacoffee.com/basictechguy" target="_blank" rel="noopener">Support Me</a>
+          <a href="https://twitter.com/basictechguy"><i class="fa fa-twitter" style="font-size:18px;"></i></a>
+          <a href=mailto:basictechguy@icloud.com><i class="fa fa-envelope" aria-hidden="true" style="font-size: 18px;"></i></a>
+        </div>
+      </div>
+      <br>
+    </div>
+    <button type="button" onclick="showMobileMenu()">
+      Close
+    </button>
+  </div>
+  <header>
+    <menu id="menuIcon">
+      <a href="/" class="active"><img src="/src/images/IMG_2951.jpeg" width="45" height="45" alt=""></a>
+    </menu>
+
+    <menu id="menuPages">
+      <a href="/" class="active"><img src="/src/images/IMG_2951.jpeg" width="45" height="45" alt=""></a>
+    </menu>
+    <menu id="menuExternal">
+      <a href="/" class="active">Blog</a>
+      <a href="concepts">Concepts</a>
+      <a href="walls">Wallpapers</a>
+      <a href="https://www.buymeacoffee.com/basictechguy" target="_blank" rel="noopener">Support Me</a>
+      <a href="https://twitter.com/basictechguy" target="_blank" rel="noopener"><i class="fa fa-twitter"
+          style="font-size:18px;"></i></a>
+          <a href=mailto:basictechguy@icloud.com><i class="fa fa-envelope" aria-hidden="true" style="font-size: 18px;"></i></a>
+    </menu>
+    <menu id="menuDisplayMobile">
+      <button type="button" onclick="showMobileMenu()">Menu</button>
+    </menu>
+  </header>
+  <main>
+    <section class="feed">
+      <div class="centerFeed">
+        <article>
+          <img src="src/images/IMG_0250.jpeg" alt="">
+          <p>12/06/2023|Apple, News, Bug</p>
+          <h2>Animoji for everyone!</h2>
+          <p>With iOS17.2 Animoji are now available on devices without Face ID (Kind Of)</p>
+          <a href="src/articles/article1.html">Read More</a>
+        </article>
+        <article>
+          <img src="src/images/ScaryFastWall.jpg" alt="">
+          <p>10/30/2023|Apple, Event, Wallpaper</p>
+          <h2>Hello Wallpaper</h2>
+          <p>After Apple's "Scary Fast" event I was inspired to make the Hello wallpaper in the style of the event.</p>
+          <a href="article1.html">Get</a>
+        </article>
+    </section>
+    </div>
+  </main>
+</body>
 </html>
