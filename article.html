@@ -4,18 +4,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SCG52QS8BN"></script>
   <script src="src/scripts/showMobileMenu.js"></script>
+  <script src="src/scripts/article.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-SCG52QS8BN');
   </script>
-  <title>Animoji for everyone! / Basic Tech Guy</title>
+  <title>No article selected / Basic Tech Guy</title>
   <link rel="icon" href="IMG_2951.jpeg" type="image/x-icon">
   <link rel="stylesheet" href="src/styles/styles.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -58,8 +60,10 @@
       <button type="button" onclick="showMobileMenu()">Menu</button>
     </menu>
   </header>
-  <main>
-<p>Blog content will go here!</p>
+  <main>  
+    <section class="center">
+      <h1>No or invalid article ID selected</h1>
+      <p>Provide a valid article ID in the URL to display an article.</p></section>
   </main>
 </body>
 </html>
