@@ -1,2 +1,3 @@
 #title: Animoji for everyone!
 With iOS17.2 Animoji are now available on devices without Face ID (Kind Of)
+#img: src/images/IMG_0250.jpeg
