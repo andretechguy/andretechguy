@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const articleContentElement = document.querySelector('main');
+  const articleContentElement = document.querySelector('article');
   const urlParams = new URLSearchParams(window.location.search);
-  const articleName = urlParams.get('article');
+  const articleName = urlParams.get('id');
 
 
   if (articleName) {
@@ -15,6 +15,10 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error('Error fetching article:', error);
         articleContentElement.innerHTML = `<p>Error loading article content.</p>`;
       });
+  }
+  else{
+    articleContentElement.innerHTML = `<section class="center"><h1>No or invalid article selected</h1>
+    <p>Provide a valid article ID to display an article.</p></section>`;
   }
 });
 
