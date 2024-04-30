@@ -13,4 +13,4 @@ This unexpected glitch, while temporary, raises an intriguing question: does Fac
 
 Stay tuned, folks! This Animoji saga isn't over yet. We'll keep an eye out for official updates from Apple and let you know if Animoji truly break free from their Face ID shackles.
 
-#html:<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="BasicTechGuy" data-color="#858585" data-emoji="☕"  data-font="Cookie" data-text="Tip Me" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+#html: <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="BasicTechGuy" data-color="#858585" data-emoji="☕"  data-font="Cookie" data-text="Tip Me" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
