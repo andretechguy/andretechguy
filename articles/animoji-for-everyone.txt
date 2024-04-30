@@ -1,6 +1,16 @@
 #title: Animoji for everyone!
-With iOS17.2 Animoji are now available on devices without Face ID (Kind Of)
+#subtitle: With iOS17.2 Animoji are now available on devices without Face ID (Kind Of)
 
 Hold onto your hats, Animoji fans! Following the recent iOS 17.2 & iPadOS 17.2 update, there's been a curious development: reports are surfacing that Animoji are unexpectedly accessible on devices without Face ID.
 
 Apple itself has remained quiet on this, but a quick Twitter search reveals a tons of excited users confirming the anomaly. However, a plot twist emerges - it seems the Animoji party might be short-lived. Folks testing the iOS 17.3 beta report Animoji back in its non-Face ID cage.
+
+#html: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">With iOS 17.2 Animoji is now available for devices without Face ID!<a href="https://twitter.com/hashtag/iPhone15ProMax?src=hash&amp;ref_src=twsrc%5Etfw">#iPhone15ProMax</a> <a href="https://twitter.com/hashtag/iOS17?src=hash&amp;ref_src=twsrc%5Etfw">#iOS17</a> <a href="https://twitter.com/hashtag/iPad?src=hash&amp;ref_src=twsrc%5Etfw">#iPad</a> <a href="https://twitter.com/hashtag/Apple?src=hash&amp;ref_src=twsrc%5Etfw">#Apple</a> <a href="https://t.co/xhsE4lTXwU">pic.twitter.com/xhsE4lTXwU</a></p>&mdash; Basic Tech Guy (@BasicTechGuy) <a href="https://twitter.com/BasicTechGuy/status/1736127117186699486?ref_src=twsrc%5Etfw">December 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+So, what's happening here? All signs point to a sneaky bug, similar to one in iOS 15.4. Back then, Animoji briefly escaped Face ID-only territory, only to be recaptured in iOS 15.5. History appears to be repeating itself, with a likely fix waiting in the wings of iOS 17.3.
+
+This unexpected glitch, while temporary, raises an intriguing question: does Face ID even matter for Animoji? While Apple touted it as a key ingredient, this bug suggests Animoji's magic could potentially exist  outside the Face ID bubble.
+
+Stay tuned, folks! This Animoji saga isn't over yet. We'll keep an eye out for official updates from Apple and let you know if Animoji truly break free from their Face ID shackles.
+
+#html:<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="BasicTechGuy" data-color="#858585" data-emoji="☕"  data-font="Cookie" data-text="Tip Me" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
