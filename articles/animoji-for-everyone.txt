@@ -1,4 +1,5 @@
 #title: Animoji for everyone!
+#img: IMG_0250.jpeg
 #subtitle: With iOS17.2 Animoji are now available on devices without Face ID (Kind Of)
 
 Hold onto your hats, Animoji fans! Following the recent iOS 17.2 & iPadOS 17.2 update, there's been a curious development: reports are surfacing that Animoji are unexpectedly accessible on devices without Face ID.
