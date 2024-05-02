@@ -1,4 +1,4 @@
-#html: <meta property="og:image" content="https://basictechguy.pages.dev/src/images/spotify-limits-lyrics.png" />
+#html: <meta property="og:image" property="twitter:card" content="https://basictechguy.pages.dev/src/images/spotify-limits-lyrics.png" />
 #title: Lyrics Limit!
 #img: spotify-limits-lyrics.png
 #subtitle: Spotify is testing "lyrics limit" for free users
