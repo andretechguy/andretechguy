@@ -1,4 +1,4 @@
 #title: Spotify is testing "lyrics limit" for free users
-#img: spotify-limmits-lyrics.png
+#img: spotify-limits-lyrics.png
 
 Coming Soon!
