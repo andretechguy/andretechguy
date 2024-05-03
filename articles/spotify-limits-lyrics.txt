@@ -1,8 +1,6 @@
-#title: Lyrics Limit!- Coming Soon
+#title: Lyrics Limit!
 #img: spotify-limits-lyrics.png
 #subtitle: Spotify is testing "lyrics limit" for free users
-
-Coming Soon!
 
 Spotify is yet once again trying to make free users switch to Premium Subscription. This time by limiting the lyrics feature behind a paywall with a message saying "Enjoy Lyrics on Spotify Premium". Many people including me noticed the change and posted it on Twitter/X and Reddit.
 #html: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Spotify Update! You can no longer view lyrics without Spotify Premium!<a href="https://twitter.com/hashtag/Spotify?src=hash&amp;ref_src=twsrc%5Etfw">#Spotify</a> <a href="https://twitter.com/hashtag/SpotifyPremium?src=hash&amp;ref_src=twsrc%5Etfw">#SpotifyPremium</a> <a href="https://t.co/ROgduzf1Qe">pic.twitter.com/ROgduzf1Qe</a></p>&mdash; Basic Tech Guy (@BasicTechGuy) <a href="https://twitter.com/BasicTechGuy/status/1785438617894338887?ref_src=twsrc%5Etfw">April 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
