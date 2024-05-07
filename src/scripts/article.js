@@ -6,18 +6,25 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (articleName) {
     fetch(`articles/${articleName}.txt`)
-      .then(response => response.text())
-      .then(data => {
+    .then(response => {
+      if (!response.ok) {
+        // Handle non-200 status codes (including 404)
+        return Promise.reject(new Error('Invalid ID'));
+      }
+      return response.text();
+    })
+    .then(data => {
         const formattedContent = formatArticleContent(data);
         articleContentElement.innerHTML = formattedContent;
       })
       .catch(error => {
         console.error('Error fetching article:', error);
-        articleContentElement.innerHTML = `<p>Error loading article content.</p>`;
+        articleContentElement.innerHTML = `<section class="center"><h1>Invalid article selected</h1>
+        <p>Provide a valid article ID to display an article.</p></section>`;
       });
   }
   else{
-    articleContentElement.innerHTML = `<section class="center"><h1>No or invalid article selected</h1>
+    articleContentElement.innerHTML = `<section class="center"><h1>No article selected</h1>
     <p>Provide a valid article ID to display an article.</p></section>`;
   }
 });
