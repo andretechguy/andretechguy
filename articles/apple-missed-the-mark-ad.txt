@@ -3,7 +3,7 @@
 #html: <p><em>Source: May 7th Apple Event.</em></p>
 #subtitle: Apple apologizes for their "Crush!" ad.
 
-At May 7th Apple Event, Apple showed an ad to sowcase their brand new iPad Pro, and the criticism spred so fast among the creators. #html: <a href="https://adage.com/article/digital-marketing-ad-tech-news/apple-apologizes-ipad-pro-crushed-ad-it-missed-mark/2559321">According to Ad Age</a>, Tor Myhren, Apple's VP of marketing, said that the company "missed the mark."
+At May 7th Apple Event, Apple showed an ad to sowcase their brand new iPad Pro, and the criticism spred so fast among the creators. <a href="https://adage.com/article/digital-marketing-ad-tech-news/apple-apologizes-ipad-pro-crushed-ad-it-missed-mark/2559321">According to Ad Age</a>, Tor Myhren, Apple's VP of marketing, said that the company "missed the mark."
 
 “Creativity is in our DNA at Apple, and it’s incredibly important to us to design products that empower creatives all over the world,” Myhren told Ad Age. “Our goal is to always celebrate the myriad of ways users express themselves and bring their ideas to life through iPad. We missed the mark with this video, and we’re sorry.”
 
