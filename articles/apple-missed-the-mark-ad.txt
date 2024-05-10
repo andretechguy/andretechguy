@@ -1,8 +1,9 @@
 #title: Sorry! We missed the mark!
 #img: apple-crush-ad.png
-#html: <p><em>Source: May 7th Apple Event.<em/><p/>
+#html: <p><em>Source: May 7th Apple Event.</em></p>
 #subtitle: Apple apologizes for their "Crush!" ad.
 
+Article will go here
 
 
 
